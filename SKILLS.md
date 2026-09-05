@@ -32,6 +32,9 @@ conflicts, follow the applicable higher-priority instructions and identify the c
 
 - [project-preferences](skills/project-preferences/SKILL.md): apply when planning,
   implementing, or reviewing changes in this repository.
+- [create-media-pack](skills/create-media-pack/SKILL.md): use when creating a
+  project branding or media pack, with three accessible options, approved exports,
+  a branding guide, and README integration.
 
 Keep all project-specific preferences and workflows in `project-preferences`.
 List any separately adopted reusable skills here with their name, trigger, and
