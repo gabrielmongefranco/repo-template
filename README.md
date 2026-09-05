@@ -20,11 +20,9 @@ You should have received a copy of the GNU General Public License along
 with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -->
-![Eisenberg Family Depression Center](https://code.depressioncenter.org/images/EFDCLogo_375w.png "depressioncenter.org")
-
 > [!NOTE]
-> # Eisenberg Family Depression Center Code Repository Template
-> __Copyright © 2026 The Regents of the University of Michigan__
+> # Gabriel Mongefranco\'s Repo Template
+> <sub>Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
 > ## **Template Setup Instructions (Delete this block when done)**
 > + Click the **"Use this template"** button, or download or fork this repo.
 > + Then, do a global **Find and Replace All** (Ctrl+Shift+H or Cmd+Shift+H) across all project files for the following variables:
