@@ -3,11 +3,11 @@ This file is part of YOUR_PROJECT_TITLE
 README.md
 Author(s): First Last; First Last; First Last; First Last.
 Created: 2026-01-01
-Last Modified: 2026-01-01
+Last Modified: 2026-09-05
 Summary: Provides an overview of the project, in Markdown format.
 Notes: See README file for documentation and full license information.
 
-Copyright © YOUR_YEAR The Regents of the University of Michigan
+Copyright © YOUR_YEAR Gabriel Mongefranco
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -34,7 +34,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 >   1. `README.md` → Description section and Credits section
 >   2. `CITATION.cff` → `authors:` block
 >   3. `.zenodo.json` → `creators:` block
-> + When done, delete this note block.
+> + When done, delete the setup instructions but keep the template attribution above.
 
 
 # YOUR_PROJECT_TITLE
@@ -54,7 +54,6 @@ YOUR_PROJECT_TITLE is a < program/library/collection of scripts > for < descript
 
 ## Documentation
 + **Complete documentation:** See the [`/docs`](./docs) folder in this repository for setup guides, usage examples, architecture, and technical details.
-+ **Overview for researchers and developers:** Visit the [Health Research Resource Library](https://michmed.org/efdc-kb) for a high-level summary, key features, and important assumptions.
 
 
 
@@ -64,23 +63,20 @@ YOUR_PROJECT_TITLE is a < program/library/collection of scripts > for < descript
 
 
 
-## About the Team
-< 1-2 paragraphs about your department, core, lab, study team, class or project. This is your marketing space! >
+## About the Author
 
-Learn more at: < link to dept/lab/project website >
-<!-- Example:
-The [Mobile Technologies Core](https://depressioncenter.org/mobiletech) provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
+YOUR_PROJECT_TITLE is built by [Gabriel Mongefranco](https://gabriel.mongefranco.com), a database and
+software architect who has spent two decades building data platforms in healthcare and
+research — enterprise data warehouses, BI systems, knowledge bases, and the first architecture for mobile and
+wearable research data at a large research university.
 
-Learn more at: [https://depressioncenter.org/mobiletech](https://depressioncenter.org/mobiletech).
--->
-
+Learn more at: [Gabriel Mongefranco's website](https://gabriel.mongefranco.com).
 
 
 ## Contact
-To get in touch, contact the project maintainers or the individual developers in the check-in history.
 
-If you need assistance identifying a contact person, email the Mobile Technologies Core at: efdc-mobiletech@umich.edu
-
+Questions, bug reports, enhancement ideas and requests are welcome as GitHub issues. Feel
+free to send pull requests as well!
 
 
 ## Credits
@@ -92,7 +88,6 @@ If you need assistance identifying a contact person, email the Mobile Technologi
 + [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
 
 ### Contributors:
-+ [Eisenberg Family Depression Center](https://depressioncenter.org) [(@DepressionCenter)](https://github.com/DepressionCenter)
 + Name [ @githubusername ]( link to github profile or website )
 + Name [ @githubusername ]( link to github profile or website )
 + [ Name ]( link to profile or website ) [ @githubusername ]( link to github profile )
@@ -108,7 +103,7 @@ If you need assistance identifying a contact person, email the Mobile Technologi
 
 ## License
 ### Copyright Notice
-Copyright © YOUR_YEAR The Regents of the University of Michigan
+Copyright © YOUR_YEAR Gabriel Mongefranco
 
 
 ### Software and Library License Notice
@@ -133,7 +128,7 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 If you find this repository, code or paper useful for your research, please cite it.
 
 #### Citation Example:
->_Last, first; Last, First; Last, First (YOUR_YEAR). YOUR_PROJECT_NAME. Eisenberg Family Depression Center, University of Michigan. Software. https://github.com/DepressionCenter/YOUR_REPO_NAME_  
+>_Mongefranco, Gabriel (YOUR_YEAR). YOUR_PROJECT_TITLE. Software. https://github.com/gabrielmongefranco/YOUR_REPO_NAME_
 ​​​​​​​     _DOI: [YOUR_DOI](https://doi.org/YOUR_DOI)_
 
 #### __OPTIONAL__ Release History and DOI #:
@@ -144,4 +139,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © YOUR_YEAR The Regents of the University of Michigan
+Copyright © YOUR_YEAR Gabriel Mongefranco

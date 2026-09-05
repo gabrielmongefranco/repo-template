@@ -6,7 +6,7 @@
 // Summary: < SUMMARY OF WHAT THIS FILE OR MODULE DOES >
 // Notes: See README file for documentation and full license information.
 //
-// Copyright © YOUR_YEAR The Regents of the University of Michigan
+// Copyright © YOUR_YEAR Gabriel Mongefranco
 // 
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
