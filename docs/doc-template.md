@@ -1,7 +1,7 @@
 <!--
 This file is part of YOUR_PROJECT_TITLE
 docs/YOUR_FILE_NAME.md
-Author(s): First Last; First Last; First Last; First Last.
+Author(s): Gabriel Mongefranco
 Created: 2026-01-01
 Last Modified: 2026-09-05
 Summary: < SUMMARY OF WHAT THIS FILE OR MODULE DOES >

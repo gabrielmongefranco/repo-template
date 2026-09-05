@@ -1,6 +1,6 @@
 // This file is part of YOUR_PROJECT_TITLE
 // < CLASS, MODULE OR FILE NAME >
-// Author(s): First Last; First Last; First Last; First Last.
+// Author(s): Gabriel Mongefranco
 // Created: 2026-01-01
 // Summary: < SUMMARY OF WHAT THIS FILE OR MODULE DOES >
 // Notes: See README file for documentation and full license information.
