@@ -1,7 +1,7 @@
 <!--
 This file is part of YOUR_PROJECT_TITLE
 README.md
-Author(s): First Last; First Last; First Last; First Last.
+Author(s): Gabriel Mongefranco
 Created: 2026-01-01
 Last Modified: 2026-09-05
 Summary: Provides an overview of the project, in Markdown format.
