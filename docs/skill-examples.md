@@ -1,6 +1,6 @@
 <!--
 This file is part of YOUR_PROJECT_TITLE
-Copyright © YOUR_YEAR The Regents of the University of Michigan
+Copyright © YOUR_YEAR Gabriel Mongefranco
 Licensed under the GNU Free Documentation License v1.3 or later.
 See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
 -->
@@ -45,7 +45,7 @@ description: Complete a defined recurring project task when its specific inputs 
 
 <!--
 This file is part of YOUR_PROJECT_TITLE
-Copyright © YOUR_YEAR The Regents of the University of Michigan
+Copyright © YOUR_YEAR Gabriel Mongefranco
 Licensed under the GNU Free Documentation License v1.3 or later.
 See <https://www.gnu.org/licenses/fdl-1.3.html>. See README for full license information.
 -->
@@ -361,6 +361,5 @@ The source links beside each recipe are its primary technical references.
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
 - [OWASP alphabetical topic index](https://cheatsheetseries.owasp.org/Glossary.html)
 - [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
-- [EFDC Health Research Resource Library](https://michmed.org/efdc-kb)
 
 [Back to project README](../README.md)
