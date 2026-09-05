@@ -46,7 +46,7 @@ Every source file that supports comments starts with this, in the language's own
 
     This file is part of YOUR_PROJECT_TITLE
     < CLASS, MODULE OR FILE NAME >
-    Author(s): First Last; First Last.
+    Author(s): Gabriel Mongefranco
     Created: YYYY-MM-DD
     Last Modified: YYYY-MM-DD
     Summary: < SUMMARY OF WHAT THIS FILE OR MODULE DOES >
