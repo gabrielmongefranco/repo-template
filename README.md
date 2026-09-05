@@ -21,7 +21,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 
 -->
 > [!NOTE]
-> # Gabriel Mongefranco\'s Repo Template
+> # Gabriel Mongefranco's Repo Template
 > <sub>Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
 > ## **Template Setup Instructions (Delete this block when done)**
 > + Click the **"Use this template"** button, or download or fork this repo.
