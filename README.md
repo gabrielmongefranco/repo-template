@@ -6,6 +6,7 @@ Created: 2026-01-01
 Last Modified: 2026-09-05
 Summary: Provides an overview of the project, in Markdown format.
 Notes: See README file for documentation and full license information.
+       Based on https://github.com/DepressionCenter/EFDC-Repo-Template (GPLv3/FDL).
 
 Copyright © YOUR_YEAR Gabriel Mongefranco
 
@@ -23,7 +24,7 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 > [!NOTE]
 > # Gabriel Mongefranco's Repo Template
 > <sub>Copyright © 2026 Gabriel Mongefranco. Based on [@DepressionCenter/EFDC-Repo-Template](https://github.com/DepressionCenter/EFDC-Repo-Template) (GPLv3/FDL).</sub>
-> ## **Template Setup Instructions (Delete this block when done)**
+> ## **Template Setup Instructions (Delete this entire note block when done)**
 > + Click the **"Use this template"** button, or download or fork this repo.
 > + Then, do a global **Find and Replace All** (Ctrl+Shift+H or Cmd+Shift+H) across all project files for the following variables:
 >   * `YOUR_PROJECT_TITLE` → e.g., `Sleep Data Analyzer`
