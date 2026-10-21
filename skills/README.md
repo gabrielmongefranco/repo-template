@@ -19,7 +19,7 @@ contains three skills every project inherits,
 [documentation/SKILL.md](documentation/SKILL.md), plus this guide and a copyable
 template for reusable skills.
 
-### What belongs here
+### Skills that belong here
 
 Each future skill lives at `skills/<skill-name>/SKILL.md`, with lowercase letters,
 digits, and hyphens in the folder name. Start the file with YAML frontmatter
